@@ -111,31 +111,7 @@ section{
 
     font-size:17px;
 
-}
-
-/*=============================
- LOADER
-==============================*/
-
-/* #loader{
-
-    position:fixed;
-
-    inset:0;
-
-    background:#fff;
-
-    display:flex;
-
-    justify-content:center;
-
-    align-items:center;
-
-    flex-direction:column;
-
-    z-index:9999;
-
-} */
+} 
 
 #loader{
     display:none;
